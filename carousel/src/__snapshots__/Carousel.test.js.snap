@@ -6,7 +6,7 @@ exports[`snapshot <Carousel/> test 1`] = `
     class="Carousel"
   >
     <h1>
-      Test Title
+      test title
     </h1>
     <div
       class="Carousel-main"
@@ -20,12 +20,12 @@ exports[`snapshot <Carousel/> test 1`] = `
         <h4
           class="Card-title"
         >
-          Photo by Richard Pasquarella on Unsplash
+          testing image 1
         </h4>
         <img
-          alt="Photo by Richard Pasquarella on Unsplash"
+          alt="testing image 1"
           class="Card-image"
-          src="image1.jpg"
+          src="test1.com"
         />
         <small
           class="Card-small"
